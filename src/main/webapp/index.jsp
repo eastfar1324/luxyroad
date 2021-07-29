@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>은미야아아아</title>
+<title>luxyroad</title>
 </head>
 <body>
-은미야아아아
+	<h1>은미야아아아</h1>
 </body>
 </html>
